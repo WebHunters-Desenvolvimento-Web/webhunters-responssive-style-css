@@ -1,0 +1,95 @@
+<style>
+  .column1 {
+   width: 100%;
+   padding-top: 40px;
+   max-width: 1278px;
+   margin: 0 auto;
+   text-align: justify;
+   margin: 0px 6px 0px 0px;
+}
+
+.column1-2 {
+   /*min-width: 250px;*/
+   /*padding-top: 20px;*/
+   display: inline-block;
+   width: 48%;
+   max-width: 636px;
+   margin: 0 auto;
+   vertical-align: middle;
+   text-align: justify;
+   margin: 0px 6px 0px 6px;
+}
+
+.column1-3 {
+   /*min-width: 250px;*/
+   /*padding-top: 20px;*/
+   display: inline-block;
+   width: 32%;
+   max-width: 421px;
+   margin: 0 auto;
+   vertical-align: middle;
+   text-align: justify;
+   margin: 0px 6px 0px 6px;
+}
+
+.column2-3 {
+   /*min-width: 250px;*/
+   /*padding-top: 20px;*/
+   display: inline-block;
+   width: 62%;
+   max-width: 842px;
+   margin: 0 auto;
+   vertical-align: middle;
+   text-align: justify;
+   margin: 0px 6px 0px 6px;
+}
+
+.column1-4 {
+   /*min-width: 250px;*/
+   /*padding-top: 20px;*/
+   display: inline-block;
+   width: 24%;
+   max-width: 318px;
+   margin: 0 auto;
+   vertical-align: middle;
+   text-align: justify;
+   /*margin: 0px 6px 0px 6px;*/
+}
+
+.column3-4 {
+   /*min-width: 250px;*/
+   /*padding-top: 20px;*/
+   display: inline-block;
+   width: 72%;
+   max-width: 1216px; /*954px;*/
+   margin: 0 auto;
+   vertical-align: middle;
+   text-align: justify;
+   /*margin: 0px 6px 0px 6px;*/
+}
+
+.column1-5 {
+   /*min-width: 250px;*/
+   /*padding-top: 20px;*/
+   display: inline-block;
+   width: 18%;
+   max-width: 255px;
+   margin: 0 auto;
+   vertical-align: middle;
+   text-align: justify;
+   margin: 0px 6px 0px 6px;
+}
+
+.column1,.column1-2,.column1-3,.column2-3, .column1-4, img {
+  text-align: center !important;
+}
+.column1, p {
+  text-align: justify;
+}
+
+.column1-4 img {
+   width: 100%;
+   max-width: 315px;
+}
+
+</style>
